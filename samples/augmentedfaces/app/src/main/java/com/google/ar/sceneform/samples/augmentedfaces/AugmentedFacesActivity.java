@@ -40,6 +40,7 @@ import java.util.Map;
 /**
  * This is an example activity that uses the Sceneform UX package to make common Augmented Faces
  * tasks easier.
+ * this is test
  */
 public class AugmentedFacesActivity extends AppCompatActivity {
   private static final String TAG = AugmentedFacesActivity.class.getSimpleName();
